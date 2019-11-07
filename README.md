@@ -1,16 +1,8 @@
-# belajar_flutter
+# Struktur Dasar Flutter
 
-A new Flutter project.
+Struktur penggunaan widget pada flutter secara mendasar.
 
-## Getting Started
+## LINK
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- https://daengweb.id/belajar-flutter-basic-1-mengenal-install-flutter (PART 1)
+- https://daengweb.id/belajar-flutter-basic-2-layout-menggunakan-widget (PART 2)
